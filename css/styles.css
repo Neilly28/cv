@@ -118,11 +118,34 @@ a:hover {
   margin-left: 100px;
 }
 
+.woman {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.heart {
+  width: 10%;
+  float: left;
+  margin-right: 50px;
+  padding-top: 50px
+}
+
+.dog {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
 .chicken-message {
   padding: 25px 0
 }
 
 .nba-message {
+  padding: 25px 0
+}
+
+.woman-message {
   padding: 25px 0
 }
 
